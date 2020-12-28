@@ -20,7 +20,7 @@ Burkina Faso,BFA,20321378
 Bangladesh,BGD,163046161
 Bulgaria,BGR,6975761
 Bahrain,BHR,1641172
-"Bahamas, The",BHS,389482
+Bahamas,BHS,389482
 Bosnia and Herzegovina,BIH,3301000
 Belarus,BLR,9466856
 Belize,BLZ,390353
@@ -31,17 +31,17 @@ Barbados,BRB,287025
 Brunei Darussalam,BRN,433285
 Bhutan,BTN,763092
 Botswana,BWA,2303697
-Central African Republic,CAF,4745185
+Central African Rep.,CAF,4745185
 Canada,CAN,37589262
 Central Europe and the Baltics,CEB,102378579
 Switzerland,CHE,8574832
 Channel Islands,CHI,172259
 Chile,CHL,18952038
 China,CHN,1397715000
-Cote d'Ivoire,CIV,25716544
+Côte d'Ivoire,CIV,25716544
 Cameroon,CMR,25876380
-"Congo, Dem. Rep.",COD,86790567
-"Congo, Rep.",COG,5380508
+Dem. Rep. Congo,COD,86790567
+Congo,COG,5380508
 Colombia,COL,50339443
 Comoros,COM,850886
 Cabo Verde,CPV,549935
@@ -56,15 +56,15 @@ Germany,DEU,83132799
 Djibouti,DJI,973560
 Dominica,DMA,71808
 Denmark,DNK,5818553
-Dominican Republic,DOM,10738958
+Dominican Rep.,DOM,10738958
 Algeria,DZA,43053054
-East Asia & Pacific (excluding high income),EAP,2093675040
+East Asia & Pacific,EAP,2093675040
 Early-demographic dividend,EAR,3290290622
 East Asia & Pacific,EAS,2340628292
-Europe & Central Asia (excluding high income),ECA,399404587
+Europe & Central Asia,ECA,399404587
 Europe & Central Asia,ECS,921140092
 Ecuador,ECU,17373662
-"Egypt, Arab Rep.",EGY,100388073
+Egypt,EGY,100388073
 Euro area,EMU,342597698
 Eritrea,ERI,
 Spain,ESP,47076781
@@ -85,7 +85,7 @@ Gibraltar,GIB,33701
 Guinea,GIN,12771246
 "Gambia, The",GMB,2347706
 Guinea-Bissau,GNB,1920922
-Equatorial Guinea,GNQ,1355986
+Eq. Guinea,GNQ,1355986
 Greece,GRC,10716322
 Grenada,GRD,112003
 Greenland,GRL,56225
@@ -109,7 +109,7 @@ Isle of Man,IMN,84584
 India,IND,1366417754
 Not classified,INX,
 Ireland,IRL,4941444
-"Iran, Islamic Rep.",IRN,82913906
+Iran,IRN,82913906
 Iraq,IRQ,39309783
 Iceland,ISL,361313
 Israel,ISR,9053300
@@ -119,11 +119,11 @@ Jordan,JOR,10101694
 Japan,JPN,126264931
 Kazakhstan,KAZ,18513930
 Kenya,KEN,52573973
-Kyrgyz Republic,KGZ,6456900
+Kyrgyzstan,KGZ,6456900
 Cambodia,KHM,16486542
 Kiribati,KIR,117606
 St. Kitts and Nevis,KNA,52823
-"Korea, Rep.",KOR,51709098
+Korea,KOR,51709098
 Kuwait,KWT,4207083
 Latin America & Caribbean (excluding high income),LAC,613773128
 Lao PDR,LAO,7169455
@@ -154,7 +154,7 @@ Middle East & North Africa,MEA,456707404
 Mexico,MEX,127575529
 Marshall Islands,MHL,58791
 Middle income,MIC,5769226180
-North Macedonia,MKD,2083459
+Macedonia,MKD,2083459
 Mali,MLI,19658031
 Malta,MLT,502653
 Myanmar,MMR,54045420
@@ -190,7 +190,7 @@ Papua New Guinea,PNG,8776109
 Poland,POL,37970874
 Pre-demographic dividend,PRE,944902749
 Puerto Rico,PRI,3193694
-"Korea, Dem. People’s Rep.",PRK,25666161
+Democratic Republic of Korea,PRK,25666161
 Portugal,PRT,10269417
 Paraguay,PRY,7044636
 West Bank and Gaza,PSE,4685306
@@ -199,46 +199,44 @@ Post-demographic dividend,PST,1112914457
 French Polynesia,PYF,279287
 Qatar,QAT,2832067
 Romania,ROU,19356544
-Russian Federation,RUS,144373535
+Russia,RUS,144373535
 Rwanda,RWA,12626950
 South Asia,SAS,1835776742
 Saudi Arabia,SAU,34268528
 Sudan,SDN,42813238
 Senegal,SEN,16296364
 Singapore,SGP,5703569
-Solomon Islands,SLB,669823
+Solomon Is.,SLB,669823
 Sierra Leone,SLE,7813215
 El Salvador,SLV,6453553
 San Marino,SMR,33860
 Somalia,SOM,15442905
 Serbia,SRB,6944975
-Sub-Saharan Africa (excluding high income),SSA,1105594562
-South Sudan,SSD,11062113
-Sub-Saharan Africa,SSF,1106957898
+S. Sudan,SSD,11062113
+W. Sahara,WSA,1106957898
 Small states,SST,41255484
 Sao Tome and Principe,STP,215056
 Suriname,SUR,581372
-Slovak Republic,SVK,5454073
+Slovakia,SVK,5454073
 Slovenia,SVN,2087946
 Sweden,SWE,10285453
 Eswatini,SWZ,1148130
-Sint Maarten (Dutch part),SXM,40733
+Sint Maarten,SXM,40733
 Seychelles,SYC,97625
-Syrian Arab Republic,SYR,17070135
+Syria,SYR,17070135
 Turks and Caicos Islands,TCA,38191
 Chad,TCD,15946876
-East Asia & Pacific (IDA & IBRD countries),TEA,2067984156
-Europe & Central Asia (IDA & IBRD countries),TEC,460799505
+East Asia & Pacific,TEA,2067984156
+Europe & Central Asia,TEC,460799505
 Togo,TGO,8082366
 Thailand,THA,69625582
 Tajikistan,TJK,9321018
 Turkmenistan,TKM,5942089
-Latin America & the Caribbean (IDA & IBRD countries),TLA,630644770
+Latin America & the Caribbean,TLA,630644770
 Timor-Leste,TLS,1293119
-Middle East & North Africa (IDA & IBRD countries),TMN,384771780
+Middle East & North Africa,TMN,384771780
 Tonga,TON,104494
-South Asia (IDA & IBRD),TSA,1835776742
-Sub-Saharan Africa (IDA & IBRD countries),TSS,1106957898
+South Asia,TSA,1835776742
 Trinidad and Tobago,TTO,1394973
 Tunisia,TUN,11694719
 Turkey,TUR,83429615
@@ -251,15 +249,16 @@ Uruguay,URY,3461734
 United States,USA,328239523
 Uzbekistan,UZB,33580650
 St. Vincent and the Grenadines,VCT,110589
-"Venezuela, RB",VEN,28515829
+Venezuela,VEN,28515829
 British Virgin Islands,VGB,30030
-Virgin Islands (U.S.),VIR,106631
+Virgin Islands,VIR,106631
 Vietnam,VNM,96462106
 Vanuatu,VUT,299882
 World,WLD,7673533972
 Samoa,WSM,197097
 Kosovo,XKX,1794248
-"Yemen, Rep.",YEM,29161922
+Yemen,YEM,29161922
 South Africa,ZAF,58558270
 Zambia,ZMB,17861030
 Zimbabwe,ZWE,14645468
+,J&K,1250000000
